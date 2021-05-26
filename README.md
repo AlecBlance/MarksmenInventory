@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AlecBlance/MarksmenInventory/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo-github.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Marksmen Inventory</h3>
