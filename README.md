@@ -20,6 +20,14 @@
     <a href="https://github.com/AlecBlance/MarksmenInventory/issues">Request Feature</a>
   </p>
 </p>
+<br>
+<img src="images/screenshot.PNG" alt="screenshot">
+<br>
+
+## About
+This is a Database Management System 2 Endterm Project. Our instructor provided all the features and form validations. Our goal is to recreate the exact demo project shown to us. We created a modern design and added javascript to employ seamless interaction.
+
+> Note: No security checks were implemented
 
 <!-- LICENSE -->
 ## License
