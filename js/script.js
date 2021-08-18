@@ -136,7 +136,7 @@ function getAllInput(id) {
 
 // embedded in buttons
 $("li").click(transferActive);
-$(".content").on("click", ".clear", clear);
+$(".content").on("click", ".clear", clear); // handle click events in Dom generated buttons
 $(".content").on("click", ".delete-category", () => {
     getContent("delete_category");
 });
